@@ -62,8 +62,7 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         85633167,
-        101753853,
-        85684619
+        101753853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,8 +79,7 @@
             "country_id":-1,
             "dependency_id":85633167,
             "locality_id":101753853,
-            "neighbourhood_id":1126109751,
-            "region_id":85684619
+            "neighbourhood_id":1126109751
         }
     ],
     "wof:id":1126109751,
